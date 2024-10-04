@@ -17,6 +17,30 @@
 	color-scheme: dark; /* Setting the color scheme to dark mode */
 }
 
+/* custom scrollbar style */
+::-webkit-scrollbar {
+	width: 8px;
+	background: #190e25;
+}
+::-webkit-scrollbar-thumb {
+	background: #ff008aff; /*?<==> fallback for old browsers */
+	background: linear-gradient(
+		0deg,
+		#ff008aff 1.9%,
+		#ff6f61ff 97.5%
+	); /*?<==> Chrome 10-25, Safari 5.1-6 */
+	background: -webkit-linear-gradient(
+		90.13deg,
+		#ff008aff 1.9%,
+		#ff6f61ff 97.5%
+	);/*?<==> W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	border-radius: 20px;
+	height: 100px;
+}
+::-webkit-scrollbar-button {
+	display: none;
+}
+
 /* Defining a class for bold font */
 .font-bold {
 	font-family: "ClashGrotesk-Bold", sans-serif; /* Setting a specific font family for bold text */
