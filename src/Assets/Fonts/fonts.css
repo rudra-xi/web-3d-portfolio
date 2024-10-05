@@ -1,0 +1,30 @@
+/* Define the "Hind-Medium" font face */
+@font-face {
+	font-family: "Hind-Medium";
+	src: url("../fonts/Hind-Medium.woff2") format("woff2"), /* WOFF2 format */
+		url("../fonts/Hind-Medium.woff") format("woff"), /* WOFF format */
+		url("../fonts/Hind-Medium.ttf") format("truetype"); /* TrueType format */
+	font-weight: 500; /* Medium weight */
+	font-display: swap; /* Swap display strategy */
+	font-style: normal; /* Normal style */
+}
+/* Define the "Hind-SemiBold" font face */
+@font-face {
+	font-family: "Hind-SemiBold";
+	src: url("../fonts/Hind-SemiBold.woff2") format("woff2"), /* WOFF2 format */
+		url("../fonts/Hind-SemiBold.woff") format("woff"), /* WOFF format */
+		url("../fonts/Hind-SemiBold.ttf") format("truetype"); /* TrueType format */
+	font-weight: 600; /* SemiBold weight */
+	font-display: swap; /* Swap display strategy */
+	font-style: normal; /* Normal style */
+}
+/* Define the "ClashGrotesk-Bold" font face */
+@font-face {
+	font-family: "ClashGrotesk-Bold";
+	src: url("../fonts/ClashGrotesk-Bold.woff2") format("woff2"), /* WOFF2 format */
+		url("../fonts/ClashGrotesk-Bold.woff") format("woff"), /* WOFF format */
+		url("../fonts/ClashGrotesk-Bold.ttf") format("truetype"); /* TrueType format */
+	font-weight: 700; /* Bold weight */
+	font-display: swap; /* Swap display strategy */
+	font-style: normal; /* Normal style */
+}
