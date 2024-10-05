@@ -8,7 +8,6 @@
 	font-display: swap; /* Swap display strategy */
 	font-style: normal; /* Normal style */
 }
-
 /* Define the "Hind-SemiBold" font face */
 @font-face {
 	font-family: "Hind-SemiBold";
@@ -19,7 +18,6 @@
 	font-display: swap; /* Swap display strategy */
 	font-style: normal; /* Normal style */
 }
-
 /* Define the "ClashGrotesk-Bold" font face */
 @font-face {
 	font-family: "ClashGrotesk-Bold";
