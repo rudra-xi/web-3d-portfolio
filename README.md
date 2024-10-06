@@ -43,6 +43,12 @@ This project includes the following components:
 4. Start the development server: `npm run dev`
 5. Open your browser and visit `http://localhost:5173/` to see the website in action.
 
+## Deployment Status
+
+Check out the latest deployment status of my portfolio website on Netlify:
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6159e557-2ba7-44c8-ade3-5b4899b047e3/deploy-status)](https://app.netlify.com/sites/portfolio-goutamprasad/deploys)
+
 ## Usage
 
 Navigate through the website using the navbar. Explore different sections to learn more about my skills, experience, and projects. Use the contact form to get in touch.
