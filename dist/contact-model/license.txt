@@ -1,8 +1,0 @@
-Model Information:
-* title:	Bastion & Ganymede - Overwatch
-* source:	https://sketchfab.com/3d-models/bastion-ganymede-overwatch-b25da6e53d304c00a6bda81d26114ac5
-* author:	Phil_XG (https://sketchfab.com/phil_xg)
-
-Model License:
-* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
-* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
