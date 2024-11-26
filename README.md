@@ -53,7 +53,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Author
 
-***[Goutam Prasad](https://github.com/goutam-prasad-27)***
+***[Rudra-xi](https://github.com/rudra-xi)***
 
 ## Credits
 
@@ -65,4 +65,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## License
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
-[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](/LICENSE)
